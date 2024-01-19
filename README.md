@@ -15,7 +15,7 @@
 
 <br>
 
-## 🛠 &nbsp; Tech Stack
+## 🛠 &nbsp; My Skills
 
 <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" width="40">&nbsp;
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width=40>&nbsp;
