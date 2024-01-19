@@ -11,7 +11,7 @@
  🤝 &nbsp; **Connect with Me**
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luciano-mp/)
-![Static Badge](https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=GMAIL&logoColor=white&color=red&link=mailto:lucianoperez12%40gmail.com)
+[![Static Badge](https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=GMAIL&logoColor=white&color=red)](mailto:lucianoperez12@gmail.com)
 
 <br>
 
