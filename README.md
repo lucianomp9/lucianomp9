@@ -1,10 +1,10 @@
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7C133&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Luciano;Backend+Developer)](https://git.io/typing-svg)
 	
-## **About me**
+## **👩🏻‍💻 About me**
 
 - 🔭 I’m currently working as a Functional Analyst in a project for Mercado Libre
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java and Spring Boot**
 - 👨🏻‍🎓 I am in my **third year** of the **Bachelor's Degree in Systems** at the National University of Lanús.
 </br>
 
@@ -27,9 +27,11 @@
 <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/git.svg" alt="GIT" width="40">&nbsp;
 
 
-
-
 <br>
+
+---
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianomp9&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 </p>
           
           
