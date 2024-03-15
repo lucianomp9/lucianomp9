@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as a Functional Analyst in a project for Mercado Libre
 - 🌱 I’m currently learning **Java, Spring Boot and Angular**
-- 👨🏻‍🎓 I am in my **third year** of the **Bachelor's Degree in Systems** at the National University of Lanús.
+- 👨🏻‍🎓 I am in my second year of the **Bachelor's Degree in Systems** at the National University of Lanús.
 </br>
 
  🤝 &nbsp; **Connect with Me**
