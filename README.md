@@ -3,8 +3,7 @@
 	
 ## **👩🏻‍💻 About me**
 
-- 🔭 I’m currently working as a Functional Analyst in a project for Mercado Libre
-- 🌱 I’m currently learning **Java, Spring Boot and Angular**
+- 💼 I’m currently working as a Software Developer at Ensolvers.
 - 👨🏻‍🎓 I am in the second year of the **Bachelor's Degree in Systems** at the National University of Lanús.
 </br>
 
