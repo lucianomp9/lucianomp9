@@ -18,13 +18,12 @@
 
 <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" width="40">&nbsp;
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width=40>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="40">&nbsp;
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/frameworks/react.svg" alt="React" width="40" /> &nbsp;
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/typescript.svg" alt="Typescript" width="40">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/develop/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width=40/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width=40/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40">&nbsp;
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/frameworks/react.svg" alt="React" width="40" /> &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="Angular" width="40" /> &nbsp;
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/typescript.svg" alt="Typescript" width="40">&nbsp;
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="40">&nbsp;
 <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/c.svg" alt="C" width="40">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original.svg" alt="Hibernate" width="40" /> &nbsp;
 <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/git.svg" alt="GIT" width="40">&nbsp;
