@@ -3,8 +3,8 @@
 	
 ## **👩🏻‍💻 About me**
 
-- 💼 I’m currently working as a Software Developer at Ensolvers.
-- 👨🏻‍🎓 I am in the second year of the **Bachelor's Degree in Systems** at the National University of Lanús.
+- 💼 I’m currently working as a Software Engineer at Ensolvers.
+- 👨🏻‍🎓 I am in the third year of the **Bachelor's Degree in Systems** at the National University of Lanús.
 </br>
 
  🤝 &nbsp; **Connect with Me**
